@@ -5,4 +5,5 @@ Este proyecto se realizo con mucho esfuerzo y se intenta mejorar, es el primer p
 realizo y debe entenderse que no esté optimizado y que tenga errores básicos en la programación.
 
 Proyecto creado por: Joshtin Yael Cortes López.
-Proyecto creado para la materia de Tratamiento de imagenes en la Universidad Autónoma del Estado de México.
+Materia: Tratamiento de imagenes
+Universidad: Universidad Autónoma del Estado de México.
